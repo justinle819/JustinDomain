@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MemoryCustomerRepositoryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-15T13:51:48" hostname="justin-VirtualBox" time="0.063">
-  <properties/>
-  <testcase name="testGetCustomerToRepo()" classname="MemoryCustomerRepositoryTest" time="0.049"/>
-  <testcase name="testAddCustomerToRepo()" classname="MemoryCustomerRepositoryTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

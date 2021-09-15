@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MemoryProductRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-15T13:51:48" hostname="justin-VirtualBox" time="0.022">
-  <properties/>
-  <testcase name="testDeleteProductFromRepo()" classname="MemoryProductRepositoryTest" time="0.009"/>
-  <testcase name="testGetProductToRepo()" classname="MemoryProductRepositoryTest" time="0.001"/>
-  <testcase name="testAddProductToRepo()" classname="MemoryProductRepositoryTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
