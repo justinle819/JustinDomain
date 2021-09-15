@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TavernTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-15T13:51:48" hostname="justin-VirtualBox" time="0.018">
+  <properties/>
+  <testcase name="testTavern()" classname="TavernTest" time="0.018"/>
+  <system-out><![CDATA[Customer: da959e36-290a-495e-bf9b-d2bb58064737 has ordered 2 products 
+Bill the customer $4.00
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

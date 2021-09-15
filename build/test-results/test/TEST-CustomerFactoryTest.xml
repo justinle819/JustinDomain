@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CustomerFactoryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-15T13:51:48" hostname="justin-VirtualBox" time="0.008">
+  <properties/>
+  <testcase name="testCreateCustomerWithInvalidAge()" classname="CustomerFactoryTest" time="0.006"/>
+  <testcase name="testCreateCustomerWithInvalidName()" classname="CustomerFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
