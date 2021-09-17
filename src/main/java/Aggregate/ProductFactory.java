@@ -1,13 +1,7 @@
 package Aggregate;
 
 import Entity.Item;
-import Entity.Person;
-import ValueObject.Transaction;
 import Exception.ProductInputException;
-
-import java.util.LinkedList;
-import java.util.List;
-import java.util.UUID;
 
 public class ProductFactory {
 

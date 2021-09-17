@@ -1,7 +1,6 @@
 package Aggregate;
 
 import Entity.Item;
-
 import java.util.UUID;
 
 public class Product {
